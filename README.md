@@ -23,15 +23,6 @@ The CCRS streamlines course registration for students and administrators. Key fe
 
 The complete project documentation is in `docs/SE_Project_Report.pdf`.
 
-## 👥 Team
-
-| Name                     | Role                               |
-|--------------------------|-------------------------------------|
-| Md Farman Ali            | Requirement Analysis, Process Model |
-| Areyan Muhemed Ali       | Architecture, Testing               |
-| Fuad Hiybo Hussin        | Component-Based Design              |
-| Aroua Talhi              | Project Manager                     |
-
 ## 🧪 Testing Strategies
 
 - ✅ Unit Testing
